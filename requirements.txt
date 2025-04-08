@@ -8,3 +8,5 @@ tensorflow
 ConfigSpace
 hpbandster
 deap
+scipy
+matplotlib
