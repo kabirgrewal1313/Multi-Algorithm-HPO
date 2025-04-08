@@ -2,8 +2,9 @@ time
 logging
 os
 random
-pandaspd
-numpynp
+pandas
+numpy
 tensorflow
 ConfigSpace
 hpbandster
+deap
