@@ -10,3 +10,5 @@ hpbandster
 deap
 scipy
 matplotlib
+skopt
+sklearn
