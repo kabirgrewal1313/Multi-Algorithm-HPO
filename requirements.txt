@@ -10,5 +10,5 @@ hpbandster
 deap
 scipy
 matplotlib
-skopt
-sklearn
+scikit-optimize
+scikit-learn
