@@ -24,6 +24,11 @@ Helped structure solution encoding and bound constraints
 
 Reviewed optimizer parameter tuning and comparison plots
 
+## Author & Collaborator
+
+**Kabir Grewal**  
+[GitHub Profile](https://github.com/kabirgrewal1313)
+
 ## Contributed to DE–BO Hybridization Strategy:
 
 Assisted in design of a combined optimizer architecture
