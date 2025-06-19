@@ -6,25 +6,25 @@ To execute the code, run requirements.txt file on your system and download the j
 #  My Contributions
 As a collaborator on this project, I was primarily responsible for:
 
-##Implementing the Genetic Algorithm (GA):
+## Implementing the Genetic Algorithm (GA):
 
 Custom crossover, mutation, and selection strategies
 
 Integrated fitness evaluation using ANN performance
 
-##Implementing PyHopper-based HPO:
+## Implementing PyHopper-based HPO:
 
 Used early-stopping and performance monitoring
 
 Tuned hidden layer size, activation functions, and learning rates
 
-##Collaborated on Differential Evolution (DE) and PSO:
+## Collaborated on Differential Evolution (DE) and PSO:
 
 Helped structure solution encoding and bound constraints
 
 Reviewed optimizer parameter tuning and comparison plots
 
-##Contributed to DE–BO Hybridization Strategy:
+## Contributed to DE–BO Hybridization Strategy:
 
 Assisted in design of a combined optimizer architecture
 
